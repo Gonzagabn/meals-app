@@ -6,6 +6,8 @@ Aplicativo de refeições separadas por categorias, que permite ao usuário veri
 
 Projetado para fins de estudo pela Cod3r - https://www.udemy.com/course/curso-flutter/
 
+![img](https://i.imgur.com/4sQWBiF.jpg)
+
 ## Funções Implementadas e Aprendizados:
 
 - Construção de telas com Scaffold e GridView;
