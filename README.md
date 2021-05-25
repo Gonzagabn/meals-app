@@ -4,6 +4,8 @@
 
 Aplicativo de refeições separadas por categorias, que permite ao usuário verificar a receita, o nível de custo, marcar como favorito e filtrar pratos de acordo com as preferências (glúten, lactose, vegetariana e vegana).
 
+Projetado para fins de estudo pela Cod3r - https://www.udemy.com/course/curso-flutter/
+
 ## Funções Implementadas e Aprendizados:
 
 - Construção de telas com Scaffold e GridView;
